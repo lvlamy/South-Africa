@@ -8,7 +8,7 @@
 
 (function (factory) {
 	if (typeof define === "function" && define.amd) {
-		define(['jquery.easing'], function ($) {
+		define(['jquery.easing.js'], function ($) {
 			return factory($);
 		});
 	} else if (typeof module === "object" && typeof module.exports === "object") {
