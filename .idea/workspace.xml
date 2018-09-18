@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe1\Hermanus.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe1\bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe1\bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe1\bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe1\cape.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe1\header-bg.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/Hermanus.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/cape.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/header-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="South-Africa.iws" />
@@ -417,7 +416,13 @@
       <option name="project" value="LOCAL" />
       <updated>1537307635524</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Rangement dossiers">
+      <created>1537308456688</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537308456688</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
