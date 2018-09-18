@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article 1 - Hermanus/a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article 2 - Lion's Head/a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article 3 - Karting/a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="South-Africa.iws" />
@@ -69,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/Article/Article 3 - Karting/a">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -120,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.05827506">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -160,13 +158,13 @@
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/css/full-slider.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/Article.html" />
         <option value="$PROJECT_DIR$/Article.html" />
         <option value="$PROJECT_DIR$/css/article.css" />
         <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -246,6 +244,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="South-Africa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="South-Africa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -531,7 +547,13 @@
       <option name="project" value="LOCAL" />
       <updated>1537308661146</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Rangement dossiers">
+      <created>1537309039976</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1537309039976</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1009,14 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Article.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1091,6 +1105,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05827506">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
