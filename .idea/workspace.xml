@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0008.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0018.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0019.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_9697.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_9707.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_9708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/Whales.MP4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/whale.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/whale_vignette.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/whales.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/DJI_0046.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/DJI_0047.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/DJI_0048.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/DJI_0050.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/DJI_0052.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/DJI_0060.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0038.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0039.JPG" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article3-Karting/a" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="South-Africa.iws" />
@@ -253,7 +257,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Article3-Karting" />
+              <option name="myItemId" value="Article3-Pingouin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -579,7 +583,13 @@
       <option name="project" value="LOCAL" />
       <updated>1537317980699</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add photos articles 1 et 2">
+      <created>1537318165616</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1537318165616</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -587,7 +597,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13361345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20336135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3391116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
@@ -665,27 +675,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1198,6 +1187,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/3expe/bgart.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Article/Article1-Hermanus/whales.tiff">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0019.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
