@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe\Au_Bout_du_Monde.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\Article\Article5-Au_Bout_du_Monde\Cap_aiguilles_bandeau.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\Article\Article5-Au_Bout_du_Monde\Grotte.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\Article\Article5-Au_Bout_du_Monde\Phare.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\img\Article\Article5-Au_Bout_du_Monde\Plage.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Martin\PhpstormProjects\South-Africa\index.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/Au_Bout_du_Monde.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Cap_aiguilles_bandeau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Grotte.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Phare.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Plage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/cap_bandeau.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/cap_drone.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="South-Africa.iws" />
@@ -176,6 +177,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="South-Africa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="South-Africa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Article" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -564,12 +583,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538525219050</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Article au bout du monde finit, manque vignette">
+      <created>1538607641950</created>
+      <option name="number" value="00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1538607641950</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3373102" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -580,7 +605,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20416667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20416667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -607,7 +632,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change name" />
     <MESSAGE value="Update" />
     <MESSAGE value="Article.html +article.css" />
     <MESSAGE value="A propos" />
@@ -632,7 +656,8 @@
     <MESSAGE value="Article 4 - complet + reorganisation Carousel" />
     <MESSAGE value="correction orthogrphe shark" />
     <MESSAGE value="Article au bout du monde" />
-    <option name="LAST_COMMIT_MESSAGE" value="Article au bout du monde" />
+    <MESSAGE value="Article au bout du monde finit, manque vignette" />
+    <option name="LAST_COMMIT_MESSAGE" value="Article au bout du monde finit, manque vignette" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
