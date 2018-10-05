@@ -5,8 +5,3 @@ body{
     width:0px;
 }
 
-#photo.img-fluid {
-    background-image: url("../img/3expe/bg.jpg");
-    background-size: 100% 50%;
-    height: 100%;
-}
