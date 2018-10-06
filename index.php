@@ -12,35 +12,29 @@
     <title>South-French</title>
     <link rel="icon" href="img/logo_SA.png">
 
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Custom styles for this template -->
     <link href="css/full-slider.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/article.css" rel="stylesheet">
 
 
     <!-- Custom fonts for this template -->
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="css/all.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
-    <!-- Custom styles for this template -->
+    
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
     <link href="css/agency.min.css" rel="stylesheet">
-
 
   </head>
 
   <body>
-    <!-- navbar -->
 
-    <?php
-    include 'include/inc_navbar.php';
-    ?>
-
+    
     <!-- Header -->
     <header>
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -54,7 +48,7 @@
           <div class="carousel-item active" style="background-image: url('img/3expe/Au_Bout_du_Monde.png')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Au bout du monde</h3>
-              <a class="portfolio-link btn btn-primary" data-toggle="modal" href="#portfolioModal5">Découvrir</a>
+              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal5">Découvrir</a>
             </div>
           </div>
 
@@ -63,7 +57,7 @@
           <div class="carousel-item" style="background-image: url('img/3expe/Requin.jpg')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Plongée en eaux troubles</h3>
-              <a class="portfolio-link btn btn-primary" data-toggle="modal" href="#portfolioModal4">Découvrir</a>
+              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal4">Découvrir</a>
             </div>
           </div>
 
@@ -72,7 +66,7 @@
           <div class="carousel-item" style="background-image: url('img/3expe/Pingouin3.jpg')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Boulders Beach</h3>
-              <a class="portfolio-link btn btn-primary" data-toggle="modal" href="#portfolioModal3">Découvrir</a>
+              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal3">Découvrir</a>
             </div>
           </div>
 
@@ -92,7 +86,7 @@
 
 
     <!--Apropos-->
-    <section class="bg-primary text-white mb-0" id="about">
+    <section class="bg-dark text-white mb-0" id="about">
       <div class="container">
         <h2 class="text-center text-uppercase text-white">A propos de nous</h2>
         <hr class="star-light mb-5">
@@ -276,8 +270,8 @@
                   <ul class="list-inline">
                     <li>Date: 24 Aout 2018</li>
                   </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fas fa-times"></i>
+                  <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                    <i class="fas fa-times "></i>
                     Fermer l'article</button>
                 </div>
               </div>
@@ -345,8 +339,8 @@
                   <ul class="list-inline">
                     <li>Date: 8 Septembre 2018</li>
                   </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fas fa-times"></i>
+                  <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                    <i class="fas fa-times "></i>
                   Fermer l'article</button>
                 </div>
               </div>
@@ -414,8 +408,8 @@
                   <ul class="list-inline">
                     <li>Date: 16 Septembre 2018</li>
                   </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fas fa-times"></i>
+                  <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                    <i class="fas fa-times "></i>
                     Fermer l'article</button>
                 </div>
               </div>
@@ -494,8 +488,8 @@
                   <ul class="list-inline">
                     <li>Date: 24 Septembre 2018</li>
                   </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fas fa-times"></i>
+                  <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                    <i class="fas fa-times "></i>
                     Fermer l'article</button>
                 </div>
               </div>
@@ -564,8 +558,8 @@
                   <ul class="list-inline">
                     <li>Date: 22 Septembre 2018</li>
                   </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fas fa-times"></i>
+                  <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                    <i class="fas fa-times "></i>
                     Fermer l'article</button>
                 </div>
               </div>
@@ -577,27 +571,25 @@
 
     <!-- Footer Section -->
 
-    <?php
-    include 'include/inc_footer.php';
-    ?>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <span class="copyright">&copy; Created by Martin DE COMBARIEU and Louis-Victor LAMY</span>
+                </div>
+            </div>
+        </div>
+    </footer>
 
 
 
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-    <script src="jquery.horizontal.scroll.js" type="text/javascript"></script>
-        <!-- Bootstrap core JavaScript -->
 
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
-    <!-- Contact form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
+   <!-- Bootstrap core JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    <!-- Custom scripts for this template -->
-    <script src="js/agency.min.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126199606-1"></script>
@@ -608,3 +600,5 @@
 
       gtag('config', 'UA-126199606-1');
     </script>
+    </body>
+</html>
