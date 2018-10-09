@@ -5,3 +5,17 @@ body{
     width:0px;
 }
 
+#art {
+    opacity: 0.5;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    filter:alpha(opacity=80);
+}
+
+
+@media (min-width: 300px) and (max-width: 480px) {
+
+    .carousel-inner {
+
+    }
+
+}
