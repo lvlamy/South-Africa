@@ -817,15 +817,16 @@
 
                  <p style = "text-align:center">
                    L'ascension fût longue et difficile. Au fur et à mesure que l'on montait, les parois de la gorge se rétrécissaient
-                   et le sentier devenait de plus en plus technique.
-                   Nous avions bien besoin d'une pause fraîcheur!
+                   et le sentier devenait de plus en plus technique. Au fur et à mesure de notre montée, nous pouvions voir le
+                   quartier de Camp's Bay rétrécir à vue d'oeil.
+                   Nous savions qu'il était raisonnable de nous arrêter de temps en temps afin de faire une petite pause.
 
                  </p>
 
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/3.JPG"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/3.JPG" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article7-Twelves_Apostles/3%20copie.JPG"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/3%20copie.JPG" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -848,8 +849,10 @@
 
 
                  <p style = "text-align: center;">
-                   Notre itinéraire se poursuit alors, le long des 12 pics. Tout autour de nous, une succession de rochers et hautes herbes
-                   à perte de vue. On perd très vite le fil du temps, comme déconnecté, face à l'immensité de ces paysages.
+                   Notre itinéraire se poursuit alors, le long des 12 pics. Tout autour de nous, une succession de rochers de plusieurs
+                   mètres de haut et de hautes herbes à perte de vue. Il nous a fallu une bonne heure et demi pour parcourir
+                   entierement le sommet des Twelves Apostles. On perd très vite le fil du temps, comme déconnecté, face à l'immensité
+                   de ces paysages.
 
                  </p>
 
@@ -862,6 +865,9 @@
                  <p style="text-align: right; font-style: italic;"></p>
 
                  <p style = "text-align: center;">
+                   A plus de 600 mètres du sol, nous étions à l'un des points les plus haut de Cape Town. De là, nous pouvions profiter de
+                   certains des plus beaux paysages que nous avons vu ici. D'un coté, nous pouvions voir False Bay situé à plus de 20 kilomètres
+                   de la et de l'autre la succession des gorges avec en arrière plan l'Océan Atlantique.
 
 
 
@@ -877,7 +883,7 @@
 
 
                  <p style = "text-align: center;">
-                  Il est déjà temps de redescendre. Le vent souffle de plus en plus et cela devient dangereux de rester sur le top des
+                  Il est déjà temps de redescendre. Le vent souffle de plus en plus et cela devient dangereux de rester sur le sommet des
                    Twelves Apostles. Nous décidons donc de redescendre par une autre gorge.
                    Tout aussi impressionant à monter qu'à descendre, il faut avoir le coeur bien accroché pour descendre dans ces crevaces
                    immenses.
@@ -893,7 +899,11 @@
 
 
                  <p style = "text-align: center;">
-                   La fin de la randonnée se termine sur une magnifique vue de Lion's Head et les Twelves Apostles.
+                   La descente était abrupte ! En effet, le vide sous nos pieds nous obligeait à rester concentré.
+                   Nous nous retournions souvent afin de réaliser à quel point le dénivelé était important.
+                   Même après 13 kilometres de marche, une magnifique vue de Lion's Head et des Twelves Apostles qui nous attendait
+                   nous a completement fait oublier la fatigue accumulée.
+
 
                  </p>
                  <div class="gallery">
