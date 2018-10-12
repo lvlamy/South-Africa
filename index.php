@@ -797,11 +797,12 @@
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Nuages descendant de Table Mountain   </p>
+
 
                  <p style = "text-align:center">La chaîne des Twelves Apostles se situe à l’arrière de Table Mountain,
-                   offrant une vue imprenable sur l'Océan Atlantique. Nous avons donc décidé de grimper au-dessus de ces 12 pics
-                   afin d'y contempler la vue. Nous savions que pour arriver au sommet, nous devions monter par l'une des 12 gorges.
+                   offrant une vue imprenable sur l'Océan Atlantique. Nous avons donc décidé de grimper au-dessus de ces douze pics
+                   afin d'y contempler la vue. Nous savions que pour arriver au sommet, nous devions monter par l'une des douze gorges.
                    Nous avons donc choisi de monter par la gorge de KasteelSpoort, qui nous semblait être la plus sécurisée.
 
 
@@ -813,7 +814,7 @@
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Début de l'ascension de la gorge de Kastleespoort</p>
 
                  <p style = "text-align:center">
                    L'ascension fût longue et difficile. Au fur et à mesure que l'on montait, les parois de la gorge se rétrécissaient
@@ -830,12 +831,12 @@
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Ascension de la gorge</p>
 
 
                  <p style = "text-align: center;">Après une bonne et intense heure de marche, nous voilà au sommet !</br>
                    Là, une vue sur tout Camp's Bay ainsi que l'Océan Atlantique s'offre à nous. Le paysage est à couper le souffle,
-                   mais pas le temps de traîner le vent se lève et il n'est pas bon de rester trop près du précipice.
+                   mais pas le temps de traîner. Le vent se lève et il n'est pas bon de rester trop près du précipice.
 
                  </p>
 
@@ -845,13 +846,13 @@
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Vue de Camp's Bay depuis le sommet</p>
 
 
                  <p style = "text-align: center;">
-                   Notre itinéraire se poursuit alors, le long des 12 pics. Tout autour de nous, une succession de rochers de plusieurs
+                   Notre itinéraire se poursuit alors, le long des douze pics. Tout autour de nous, une succession de rochers de plusieurs
                    mètres de haut et de hautes herbes à perte de vue. Il nous a fallu une bonne heure et demi pour parcourir
-                   entierement le sommet des Twelves Apostles. On perd très vite le fil du temps, comme déconnecté, face à l'immensité
+                   entierement le sommet des Twelves Apostles. On perd très vite la notion du temps, comme déconnecté face à l'immensité
                    de ces paysages.
 
                  </p>
@@ -862,12 +863,12 @@
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Balade au sommet</p>
 
                  <p style = "text-align: center;">
                    A plus de 600 mètres du sol, nous étions à l'un des points les plus haut de Cape Town. De là, nous pouvions profiter de
-                   certains des plus beaux paysages que nous avons vu ici. D'un coté, nous pouvions voir False Bay situé à plus de 20 kilomètres
-                   de la et de l'autre la succession des gorges avec en arrière plan l'Océan Atlantique.
+                   certains des plus beaux paysages que nous avons vu ici. D'un coté, nous pouvions voir False Bay situé à plus de vingt kilomètres
+                   de là, et de l'autre la succession des gorges avec en arrière plan l'Océan Atlantique.
 
 
 
@@ -875,18 +876,18 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/6.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/6.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article7-Twelves_Apostles/6.JPG"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/6.JPG" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Des paysages incroyables vue du sommet</p>
 
 
                  <p style = "text-align: center;">
                   Il est déjà temps de redescendre. Le vent souffle de plus en plus et cela devient dangereux de rester sur le sommet des
                    Twelves Apostles. Nous décidons donc de redescendre par une autre gorge.
-                   Tout aussi impressionant à monter qu'à descendre, il faut avoir le coeur bien accroché pour descendre dans ces crevaces
-                   immenses.
+                   Toute aussi impressionante à monter qu'à descendre, il faut avoir le coeur bien accroché pour descendre dans ces immenses
+                   crevaces.
                  </p>
 
                  <div class="gallery">
@@ -895,13 +896,13 @@
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Descente par Woody Ravine Trail</p>
 
 
                  <p style = "text-align: center;">
-                   La descente était abrupte ! En effet, le vide sous nos pieds nous obligeait à rester concentré.
+                   La descente était abrupte ! En effet, le vide sous nos pieds nous obligeait à rester concentrés.
                    Nous nous retournions souvent afin de réaliser à quel point le dénivelé était important.
-                   Même après 13 kilometres de marche, une magnifique vue de Lion's Head et des Twelves Apostles qui nous attendait
+                   Même après treize kilometres de marche, une magnifique vue de Lion's Head et des Twelves Apostles qui nous attendait
                    nous a completement fait oublier la fatigue accumulée.
 
 
@@ -912,7 +913,7 @@
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;"></p>
+                 <p style="text-align: right; font-style: italic;">Vue sur Lion's Head à gauche et Twelves Apostles à <droite></droite></p>
 
 
                  <ul class="list-inline">
