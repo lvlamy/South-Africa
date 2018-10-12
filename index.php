@@ -213,7 +213,7 @@
           </div>
 
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal7">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <i class="fas fa-plus fa-3x"></i>
@@ -775,7 +775,7 @@
     </div>
 
 
-   <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
      <div class="modal-dialog">
        <div class="modal-content">
          <div class="close-modal" data-dismiss="modal">
@@ -799,9 +799,11 @@
                  </div>
                  <p style="text-align: right; font-style: italic;"></p>
 
-                 <h4 style = "text-align: center;">
-                 </h4>
-                 <p style = "text-align:center">
+                 <p style = "text-align:center">La chaîne des Twelves Apostles se situe à l’arrière de Table Mountain,
+                   offrant une vue imprenable sur l'Océan Atlantique. Nous avons donc décidé de grimper au-dessus de ces 12 pics
+                   afin d'y contempler la vue. Nous savions que pour arriver au sommet, nous devions monter par l'une des 12 gorges.
+                   Nous avons donc choisi de monter par la gorge de KasteelSpoort, qui nous semblait être la plus sécurisée.
+
 
                  </p>
 
@@ -814,26 +816,60 @@
                  <p style="text-align: right; font-style: italic;"></p>
 
                  <p style = "text-align:center">
+                   L'ascension fût longue et difficile. Au fur et à mesure que l'on montait, les parois de la gorge se rétrécissaient
+                   et le sentier devenait de plus en plus technique.
+                   Nous avions bien besoin d'une pause fraîcheur!
 
                  </p>
 
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/3.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/3.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article7-Twelves_Apostles/3.JPG"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/3.JPG" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
                  <p style="text-align: right; font-style: italic;"></p>
-                 <br/><br/>
+
+
+                 <p style = "text-align: center;">Après une bonne et intense heure de marche, nous voilà au sommet !</br>
+                   Là, une vue sur tout Camp's Bay ainsi que l'Océan Atlantique s'offre à nous. Le paysage est à couper le souffle,
+                   mais pas le temps de traîner le vent se lève et il n'est pas bon de rester trop près du précipice.
+
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article7-Twelves_Apostles/4.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/4.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;"></p>
+
+
+                 <p style = "text-align: center;">
+                   Notre itinéraire se poursuit alors, le long des 12 pics. Tout autour de nous, une succession de rochers et hautes herbes
+                   à perte de vue. On perd très vite le fil du temps, comme déconnecté, face à l'immensité de ces paysages.
+
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article7-Twelves_Apostles/5.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/5.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;"></p>
 
                  <p style = "text-align: center;">
 
+
+
                  </p>
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article5-Au_Bout_du_Monde/Grotte.png"><img class="img-fluid" src="img/Article/Article5-Au_Bout_du_Monde/Grotte.png" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article7-Twelves_Apostles/6.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/6.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -841,16 +877,33 @@
 
 
                  <p style = "text-align: center;">
-
+                  Il est déjà temps de redescendre. Le vent souffle de plus en plus et cela devient dangereux de rester sur le top des
+                   Twelves Apostles. Nous décidons donc de redescendre par une autre gorge.
+                   Tout aussi impressionant à monter qu'à descendre, il faut avoir le coeur bien accroché pour descendre dans ces crevaces
+                   immenses.
                  </p>
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article5-Au_Bout_du_Monde/Plage.png"><img class="img-fluid" src="img/Article/Article5-Au_Bout_du_Monde/Plage.png" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article7-Twelves_Apostles/7.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/7.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
                  <p style="text-align: right; font-style: italic;"></p>
+
+
+                 <p style = "text-align: center;">
+                   La fin de la randonnée se termine sur une magnifique vue de Lion's Head et les Twelves Apostles.
+
+                 </p>
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article7-Twelves_Apostles/8.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/8.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;"></p>
+
 
                  <ul class="list-inline">
                    <li>Date: 03 Octobre 2018</li>
