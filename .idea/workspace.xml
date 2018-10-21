@@ -2,8 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/3 copie.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/3 copie.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/6.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/TwelvesApostles.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43677270_2126059144321012_6753735119753707520_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43684203_177074163174617_6680014162191450112_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43687645_175641479991308_6114195836336340992_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43696176_242540493082950_4450271071450431488_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43703344_336053683809706_464311983609479168_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43712878_546176085811226_2122578889292120064_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43717999_158863955057168_3052848851187662848_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43741595_572720246517313_8453344113612292096_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43771669_286601648616039_5615197250167767040_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43788671_347791032633303_2081389946765049856_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43828118_1997408763891206_937961170285887488_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43880337_317909545653539_7365514857010954240_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/43951059_169818933928668_7957514234055622656_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/IMG_0396.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/IMG_0414.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/IMG_0448.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/IMG_0464.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/IMG_0469.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/IMG_0471.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/2_lac.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/2_lac.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/3expe.png" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/3expe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/3expe2.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/3expe2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0245.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0245.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0319.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0319.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0321.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0321.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0322.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0322.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0323.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0323.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0324.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0324.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0325.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0325.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_0326.JPG" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_0326.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_20180929_161043.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_20180929_161043.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_20180929_172810.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_20180929_172810.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/IMG_20180929_181047.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/IMG_20180929_181047.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/drone_lac.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/drone_lac.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/echelles.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/echelles.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/garden.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/garden.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/garden2.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/garden2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/lac.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/marches.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/marches.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/paysageTable.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/paysageTable.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/paysage_nous.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/paysage_nous.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/plage.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/plage.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/vignette.jpg" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/vignette.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/1.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/2.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/3 copie.JPG" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/3 copie.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/4.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/5.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/6.JPG" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/6.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/7.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/8.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/9.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Article/Article7-Twelves_Apostles/vignette.jpg" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/vignette.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,69 +80,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gansbaai.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59183675">
-              <caret line="915" column="126" selection-start-line="915" selection-start-column="126" selection-end-line="915" selection-end-column="126" />
+            <state vertical-scroll-proportion="0.36410257">
+              <caret line="241" column="13" selection-start-line="241" selection-start-column="13" selection-end-line="241" selection-end-column="13" />
               <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#10;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#11;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#12;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#13;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#14;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#15;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inc_footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inc_navbar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.1666665">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -125,6 +128,7 @@
         <option value="$PROJECT_DIR$/Include/inc_navbar.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Include/inc_footer.php" />
+        <option value="&lt;946283f3-68d1-4a4d-947c-e748c849c144&gt;/South-Africa/css/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -143,7 +147,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1279" />
-    <option name="height" value="732" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -187,67 +191,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article7-Twelves_Apostles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -321,12 +271,6 @@
       <created>1536702326225</created>
       <option name="number" value="Default" />
       <updated>1536702326225</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Update">
-      <created>1536787084754</created>
-      <option name="number" value="00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1536787084754</updated>
     </task>
     <task id="LOCAL-00009" summary="Article.html +article.css">
       <created>1536795817416</created>
@@ -616,11 +560,17 @@
       <option name="project" value="LOCAL" />
       <updated>1539374152170</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Article 7 Twelves apostles">
+      <created>1539376863698</created>
+      <option name="number" value="00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1539376863698</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1279" height="732" extended-state="0" />
+    <frame x="0" y="23" width="1279" height="729" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -628,23 +578,23 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32398754" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32810047" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27324173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2069523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.394081" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39403453" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32827735" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22554567" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -702,25 +652,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#10;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#11;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#12;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#13;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#14;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#15;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -759,25 +696,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#10;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#11;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#12;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#13;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#14;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#15;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -906,74 +830,46 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.20512821">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1666665">
+        <state vertical-scroll-proportion="0.35897437">
           <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.1724138">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/plage.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/paysageTable.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article6-table-moutain-lac/paysage_nous.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59183675">
-          <caret line="915" column="126" selection-start-line="915" selection-start-column="126" selection-end-line="915" selection-end-column="126" />
+        <state vertical-scroll-proportion="0.36410257">
+          <caret line="241" column="13" selection-start-line="241" selection-start-column="13" selection-end-line="241" selection-end-column="13" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#10;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#11;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#12;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#13;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#14;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#15;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>

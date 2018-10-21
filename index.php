@@ -65,7 +65,16 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('img/3expe/Au_Bout_du_Monde.png')">
+          <div class="carousel-item active" style="background-image: url('img/3expe/TwelvesApostles.JPG')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Twelves Apostles</h3>
+              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal6">Découvrir</a>
+            </div>
+          </div>
+
+
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('img/3expe/Au_Bout_du_Monde.png')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Au bout du monde</h3>
               <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal5">Découvrir</a>
@@ -73,20 +82,11 @@
           </div>
 
 
-          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <!-- Slide Three - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('img/3expe/Requin.jpg')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Plongée en eaux troubles</h3>
               <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal4">Découvrir</a>
-            </div>
-          </div>
-
-
-          <!-- Slide Three - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('img/3expe/Pingouin3.jpg')">
-            <div class="carousel-caption d-none d-md-block">
-              <h3>Boulders Beach</h3>
-              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal3">Découvrir</a>
             </div>
           </div>
 
@@ -213,13 +213,13 @@
           </div>
 
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal7">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/vignette.jpg" alt="">
+              <img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/vignette.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Twelves Apostles</h4>
@@ -238,6 +238,8 @@
     <!-- Articles -->
 
 
+
+   r"gezssdds
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -775,7 +777,7 @@
     </div>
 
 
-   <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
      <div class="modal-dialog">
        <div class="modal-content">
          <div class="close-modal" data-dismiss="modal">
@@ -793,7 +795,7 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/1.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/1.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/1.jpg"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/1.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -810,7 +812,7 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/2.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/2.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/2.jpg"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/2.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -827,7 +829,7 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/3%20copie.JPG"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/3%20copie.JPG" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/3%20copie.JPG"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/3%20copie.JPG" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -842,7 +844,7 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/4.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/4.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/4.jpg"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/4.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -859,7 +861,7 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/5.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/5.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/5.jpg"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/5.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -876,7 +878,7 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/6.JPG"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/6.JPG" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/6.JPG"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/6.JPG" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -892,7 +894,7 @@
 
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/7.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/7.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/7.jpg"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/7.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
@@ -909,11 +911,11 @@
                  </p>
                  <div class="gallery">
                    <div class="container">
-                     <a href="img/Article/Article7-Twelves_Apostles/8.jpg"><img class="img-fluid" src="img/Article/Article7-Twelves_Apostles/8.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                     <a href="img/Article/Article6-Twelves_Apostles/8.jpg"><img class="img-fluid" src="img/Article/Article6-Twelves_Apostles/8.jpg" data-lity class="img-thumbnail" alt="" /></a>
 
                    </div>
                  </div>
-                 <p style="text-align: right; font-style: italic;">Vue sur Lion's Head à gauche et Twelves Apostles à <droite></droite></p>
+                 <p style="text-align: right; font-style: italic;">Vue sur Lion's Head à gauche et Twelves Apostles à droite</p>
 
 
                  <ul class="list-inline">
