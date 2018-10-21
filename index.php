@@ -971,11 +971,11 @@
                  </div>
                  <p style="text-align: right; font-style: italic;">Table Mountain vue de haut</p>
 
-                 <p style = "text-align:center">Table mountain; culminant à 1100 mètres est la plus haute montagne traversant Cape Town.
-                     Voulant profiter de la nature qu’offre cette ville nous étions obligés de nous organiser pour gravir cette montagne iconique.
-                     Il existe plusieurs options pour monter en haut de cette montagne.
-                     La première option, la plus simple, était de prendre le téléphérique qui se trouve sur Tafelberg Road.
-                     En quête de défi, nous n’avons pas choisi ce chemin et avons décidé d’emprunter le chemin débutant au Jardin botanique de Kirstenbosch.
+                 <p style = "text-align:center">Table mountain, culminant à 1100 mètres est la plus haute montagne traversant Cape Town.
+                     Voulant profiter de la nature qu’offre cette ville nous étions obligés de nous organiser afin de gravir cette montagne iconique.
+                     Il existe plusieurs options pour monter en haut de cette montagne :
+                     la première option, la plus simple, était de prendre le téléphérique qui se trouve sur Tafelberg Road;
+                     en quête de défi, nous n’avons pas choisi ce chemin et avons décidé d’emprunter le chemin débutant au Jardin botanique de Kirstenbosch.
                      Vu d’en bas, le sommet semble inaccessible.
                  </p>
 
@@ -988,8 +988,8 @@
                  <p style="text-align: right; font-style: italic;">Jardin botanique de Kirstenbosch</p>
 
                  <p style = "text-align:center">
-                     L’ascension commence et très vite les couleurs du jardin laissent place à une jungle sauvage.
-                     C’est la partie la plus difficile de la marche car elle nous demande de monter des escaliers sans discontinuer pendant plus d’une heure.
+                     L’ascension commence, et très vite les couleurs du jardin laissent place à une jungle sauvage.
+                     C’est la partie la plus difficile de la marche car elle nous demande de monter des escaliers sans discontinuer, et ce,  pendant plus d’une heure.
                      L’effort est intense, d’un autre côté les pauses que nous nous accordons nous permettent d’observer de magnifiques paysages tropicaux.
                  </p>
 
@@ -1003,9 +1003,10 @@
                  <p style="text-align: right; font-style: italic;">Paysage de jungle durant la montée</p>
 
 
-                 <p style = "text-align: center;">Après l’effort, le réconfort. Nous sortons de cette jungle après une heure et là, une incroyable vue sur la ville apparaît devant nos yeux.
+                 <p style = "text-align: center;">
+                     Après plus d'une heure d'effort, le réconfort : nous sortons de cette jungle pour tomber nez à nez avec une incroyable vue sur la ville.
                      À cette hauteur, on peut voir l’immensité de la ville qui s’étend jusqu’à l’horizon.
-                     Une discussion avec un couple passant à notre niveau nous informe qu’il nous reste 2h30 de randonnée sans pause. Nous repartons donc aussitôt.
+                     Une discussion avec un couple passant à notre niveau nous informe qu’il nous reste 2h30 de randonnée, sans pause. Nous repartons donc aussitôt.
 
                  </p>
 
@@ -1021,7 +1022,7 @@
                  <p style = "text-align: center;">
                      Quelques minutes après cette vue incroyable nous commençons petit à petit à sentir du sable sous nos pieds.
                      Après quelques minutes, le sol est complètement ensablé et nous approchons d’un lac.
-                     Décidément les paysages de cette marche n’arrêtent pas de changer : après les jardins, la jungle, la ville de haut, voilà qu’une plage perchée à 700m de hauteur fait son apparition.
+                     Décidément les paysages de cette marche n’arrêtent pas de changer : après les jardins, la jungle, un panorama de la ville, voilà qu’une plage perchée à 700m de hauteur fait son apparition.
                      La couleur rouge du lac est due à un important taux de fer dans l’eau.
 
                  </p>
@@ -1037,8 +1038,8 @@
 
                  <p style = "text-align: center;">
                      Nous prenons quelques minutes pour manger et repartons directement.
-                     Nous marchons pendant une heure sous un soleil lourd. En plus de ça nous commençons à manquer d’eau.
-                     Nous continuons de marcher encore un peu et enfin, nous arrivons à « Maclear's Beacon » un amas de pierres marquant le plus haut point de Table Mountain.
+                     Marcher plus d'une heure sous un soleil de plomb nous apprit au moins une chose : nous n'avions pas prévu assez d'eau pour notre périple.
+                     Nous arrivons enfin à « Maclear's Beacon » un amas de pierres marquant le plus haut point de Table Mountain.
                      Difficile d’apprécier le paysage, nous avons besoin de boire.
                  </p>
 
@@ -1053,10 +1054,10 @@
 
                  <p style = "text-align: center;">
                      Nous marchons vers le téléphérique de Table Mountain en espérant pouvoir y trouver de l’eau.
-                     À partir de là, le chemin est plat. Nous marchons sur la table.
-                     Petit à petit, le bâtiment du téléphérique apparaît, nous espérons, sans parler, une fontaine à l’arrivée.
-                     En nous approchant, nous voyons un écriteau « restaurant », nous fonçons à l’intérieur récupérer la bouteille d’eau tant attendue.
-                     Enfin, nous pouvions rentrer tranquillement. Nous sortons et profitons de la vue sublime du haut de Table Mounain que nous avons grandement mérité.
+                     À partir de là, le chemin est plat : nous marchons sur la table.
+                     Petit à petit, le bâtiment du téléphérique apparaît et nous espérons, sans parler, une fontaine à l’arrivée.
+                     En nous approchant, nous voyons un écriteau « restaurant » : impatients, nous allons récupérer la bouteille d’eau tant attendue.
+                     Désaltérés, nous sortons et profitons de la vue sublime du haut de Table Mounain, que nous avons grandement mérité.
                  </p>
 
                  <div class="gallery">
