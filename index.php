@@ -228,7 +228,7 @@
                   <br/>
                   <h4 style = "text-align: center;">Lion's Head : pic rocheux surplombant la ville du Cap.
                   </h4>
-                  <p style = "text-align:center"> Il est possible d’arriver au pied du rocher de Lion’s head par plusieurs chemins.
+                  <p style = "text-align:justify"> Il est possible d’arriver au pied du rocher de Lion’s head par plusieurs chemins.
                     Soit en empruntant un chemin en haut d’un quartier très aisé du côté de Bantry Bay soit un autre que nous avons pris,
                     en haut d’une rue proche de green point. Il est aussi possible d’atteindre le bas du rocher en voiture en empruntant Kloof road.
                     En prenant le chemin sillonnant la colline de Signal Hill on aperçoit très vite l’ensemble du quartier de Seapoint ainsi que l’océan
