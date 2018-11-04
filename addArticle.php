@@ -20,6 +20,7 @@ if(isset($_POST['submit'])){
     $miniaturePicture = new Pictures(array(
         'filePath' => IMG_PATH,
         'type' => Pictures::MINIATURE_PICTURE,
+        'place' => 1,
         'fileName' => $_FILES['miniaturePicture']['name'],
         'tmpName' => $_FILES['miniaturePicture']['tmp_name'],
         'errorFile' => $_FILES['miniaturePicture']['error'],
@@ -30,6 +31,7 @@ if(isset($_POST['submit'])){
 
     $carouselPicture = new Pictures(array(
         'filePath' => IMG_PATH,
+        'place', 1,
         'type' => Pictures::CAROUSEL_PICTURE,
         'fileName' => $_FILES['carouselPicture']['name'],
         'tmpName' => $_FILES['carouselPicture']['tmp_name'],

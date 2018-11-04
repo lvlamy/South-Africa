@@ -193,7 +193,7 @@ class Pictures
 
     public function setPlace($place)
     {
-        if(empty($place) || !is_int($place))
+        if(empty($place))
         {
             $this->errors[] = self::INVALID_PLACE;
         }
