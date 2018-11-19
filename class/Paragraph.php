@@ -6,12 +6,9 @@
  * Date: 06/10/2018
  * Time: 15:42
  */
-require_once('trait/Initialization.php');
 
 class Paragraph
 {
-
-    use Initialization;
 
     protected   $id,
                 $idArticle,
@@ -31,6 +28,19 @@ class Paragraph
         if (!empty($values))
         {
             $this->hydrate($values);
+        }
+    }
+
+    public function hydrate($data)
+    {
+        foreach ($data as $attribute => $values)
+        {
+            $method = 'set'.ucfirst($attribute);
+
+            if (is_callable([$this, $method]))
+            {
+                $this->$method($values);
+            }
         }
     }
 

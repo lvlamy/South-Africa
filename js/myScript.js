@@ -30,6 +30,11 @@ function htmlTextField(fieldType)
     input.setAttribute('name','place[]');
     input.setAttribute('value',fieldType);
 
+    var inputId = document.createElement('input');
+    inputId.setAttribute('type','hidden');
+    inputId.setAttribute('name','idText[]');
+    inputId.setAttribute('value',"0");
+
     label.appendChild(labelText);
     div.appendChild(label);
 
@@ -37,7 +42,9 @@ function htmlTextField(fieldType)
     div.appendChild(button);
 
     div.appendChild(textArea);
+    div.appendChild(inputId);
     div.appendChild(input);
+
 
     document.getElementById('fieldsGroup').appendChild(div);
 }
@@ -81,6 +88,11 @@ function htmlPictureField(fieldType)
     inputPlace.setAttribute('name','place[]');
     inputPlace.setAttribute('value',fieldType);
 
+    var inputId = document.createElement('input');
+    inputId.setAttribute('type','hidden');
+    inputId.setAttribute('name','idPicture[]');
+    inputId.setAttribute('value',"0");
+
     var div = document.createElement('div');
     div.setAttribute('class','form-group  fields');
 
@@ -93,7 +105,9 @@ function htmlPictureField(fieldType)
     div.appendChild(inputSource);
     div.appendChild(inputName);
     div.appendChild(inputFile);
+    div.appendChild(inputId);
     div.appendChild(inputPlace);
+
 
     document.getElementById('fieldsGroup').appendChild(div);
 

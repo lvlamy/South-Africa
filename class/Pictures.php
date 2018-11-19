@@ -7,11 +7,9 @@
  * Time: 16:02
  */
 
-//require_once('trait/Initialization.php');
 
 class Pictures
 {
-    //use Initialization;
 
     protected   $id,
                 $idArticle,
@@ -36,7 +34,10 @@ class Pictures
     const INVALID_SOURCE = 10;
     const INVALID_NAME = 11;
     const INVALID_PLACE = 12;
+    const FAIL_MOVE_PICTURE = 13;
 
+    const FILE_PATH = '../img/';
+    const FILE_PATH_ROOT = 'img/';
 
     /**
      * Paragraph constructor.
@@ -44,6 +45,7 @@ class Pictures
      */
     public function __construct($values = [])
     {
+        $this->filePath = "unknown";
         if (!empty($values))
         {
             $this->hydrate($values);
@@ -98,7 +100,38 @@ class Pictures
 
         $this->fileName = $newNames;
 
-        return move_uploaded_file($this->tmpName,"$this->filePath/$newNames");
+        $this->filePath = self::FILE_PATH_ROOT;
+
+        if(file_exists(self::FILE_PATH_ROOT))
+        {
+            return move_uploaded_file($this->tmpName,self::FILE_PATH_ROOT.$newNames);
+        }
+        else if(file_exists(self::FILE_PATH))
+        {
+            return move_uploaded_file($this->tmpName,self::FILE_PATH.$newNames);
+        }
+        else
+        {
+            $this->errors[] = self::FAIL_MOVE_PICTURE;
+            return false;
+        }
+
+    }
+
+
+    public function addPicture()
+    {
+        if($this->isValidFormat())
+        {
+            if($this->move())
+                return true;
+            else
+                return false;
+        }
+        else
+        {
+            return false;
+        }
     }
 
     /**
@@ -115,6 +148,16 @@ class Pictures
             }
         }
         return FALSE;
+    }
+
+    public function isValidUpdate()
+    {
+        if(!empty($this->source) && !empty($this->name)) //Picture information verification
+        {
+            return true;
+        }
+        else
+            return false;
     }
 
     public function validPlace()

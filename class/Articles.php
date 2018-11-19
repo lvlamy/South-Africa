@@ -7,11 +7,8 @@
  * Time: 12:56
  */
 
-require_once('trait/Initialization.php');
-
 class Articles
 {
-    use Initialization;
 
     protected   $id,
                 $title,
@@ -33,6 +30,7 @@ class Articles
     const INVALID_MINIATURE_PICTURE = 5;
     const INVALID_CAROUSEL_PICTURE = 6;
     const MISS_FIELD = 7;
+    const INVALID_PICTURE_UPLOAD = 8;
 
     const TEXT_FIELD = 1;
     const PICTURE_FIELD = 2;
@@ -46,6 +44,19 @@ class Articles
         if (!empty($values))
         {
             $this->hydrate($values);
+        }
+    }
+
+    public function hydrate($data)
+    {
+        foreach ($data as $attribute => $values)
+        {
+            $method = 'set'.ucfirst($attribute);
+
+            if (is_callable([$this, $method]))
+            {
+                $this->$method($values);
+            }
         }
     }
 
@@ -79,6 +90,36 @@ class Articles
             return true;
         }
         return false;
+    }
+
+    public function isValidUpdate()
+    {
+        $valid = true;
+
+        if(empty($this->title) || empty($this->author) || empty($this->text) || empty($this->subtitle) || empty($this->id))
+        {
+            $valid = false;
+        }
+
+        if(!empty($this->miniaturePicture) && !empty($this->carouselPicture))
+        {
+            if(!($this->miniaturePicture->isValidUpdate()) || !($this->carouselPicture->isValidUpdate()))
+            {
+                $valid = false;
+            }
+        }
+        else
+        {
+            $valid = false;
+        }
+
+        foreach ($this->pictures as $picture)
+        {
+            if($picture->getId() == "0" && empty($picture->getFileName()))
+                $valid = false;
+        }
+
+        return $valid;
     }
 
 
@@ -183,10 +224,12 @@ class Articles
     {
         foreach($pictures as $picture)
         {
-            if(!empty($picture->getFileName()))
+            if(empty($picture->getFileName()))
             {
-                $this->pictures[] = $picture;
+                $this->errors[] = self::INVALID_PICTURE_UPLOAD;
+
             }
+            $this->pictures[] = $picture;
         }
     }
 
