@@ -38,7 +38,7 @@
 
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
 
 
@@ -66,30 +66,30 @@
             <div class="carousel-inner" role="listbox">
 
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('img/3expe/table_mountain.png')">
-              <div class="carousel-caption d-none d-md-block">
-                  <h3>Table Mountain</h3>
-                  <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal7">Découvrir</a>
-              </div>
+          <div class="carousel-item active" style="background-image: url('img/3expe/Pont.jpeg')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Bloukran's Bungee Jump</h3>
+              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal10">Découvrir</a>
+            </div>
           </div>
 
 
           <!-- Slide Two - Set the background image for this slide in the line below -->
-            <div class="carousel-item " style="background-image: url('img/3expe/TwelvesApostles.JPG')">
-                <div class="carousel-caption d-none d-md-block">
-                    <h3>Twelves Apostles</h3>
-                    <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal6">Découvrir</a>
-                </div>
+          <div class="carousel-item" style="background-image: url('img/3expe/KrugerPark2.JPG')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Kruger Park #2</h3>
+              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal9">Découvrir</a>
             </div>
+          </div>
 
 
           <!-- Slide Three - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('img/3expe/Au_Bout_du_Monde.png')">
-                <div class="carousel-caption d-none d-md-block">
-                    <h3>Au bout du monde</h3>
-                    <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal5">Découvrir</a>
-                </div>
+          <div class="carousel-item" style="background-image: url('img/3expe/Krugerpark1.jpg')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Kruger Park #1</h3>
+              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal8">Découvrir</a>
             </div>
+          </div>
 
 
 
@@ -243,8 +243,50 @@
             </div>
           </div>
 
+          <div class="col-md-4 col-sm-6 portfolio-item">
+                <a class="portfolio-link" data-toggle="modal" href="#portfolioModal8">
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                            <i class="fas fa-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/Article/Article8-KrugerPark1/vignette.png" alt="">
+                </a>
+                <div class="portfolio-caption">
+                    <h4>Kruger Park #1</h4>
+                    <p class="text-muted">Voyage</p>
+                </div>
+            </div>
 
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal9">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/Article/Article9-KrugerPark2/vignette.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Kruger Park #2</h4>
+              <p class="text-muted">Voyage</p>
+            </div>
+          </div>
 
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal10">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/Article/Article10-BloukransBungeeJump/Vignette.JPG" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Bloukran's Bungee Jump</h4>
+              <p class="text-muted">Voyage</p>
+            </div>
+          </div>
 
         </div>
       </div>
@@ -277,16 +319,6 @@
                   <h2 class="text-uppercase">De Signal Hill à Lion's Head</h2>
                   <p class="item-intro text-muted">randonnée</p>
 
-<!--                  <div id="myModal" class="modal-img modal-fluid">-->
-<!--                    <!-- Modal content -->
-<!--                    <span class="close-img">&times;</span>-->
-<!--                    <img class="modal-content-img" id="img01">-->
-<!--                  </div>-->
-
-
-<!--                  <a href="#top1">-->
-<!--                    <img class="img-fluid myImg" src="img/Article/Article2-Lions_Head/DJI_0011.JPG" alt="">-->
-<!--                  </a>-->
 
 
                   <div class="gallery">
@@ -1083,6 +1115,294 @@
        </div>
      </div>
    </div>
+
+
+   <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+       <div class="modal-dialog">
+           <div class="modal-content">
+               <div class="close-modal" data-dismiss="modal">
+                   <div class="lr">
+                       <div class="rl"></div>
+                   </div>
+               </div>
+               <div class="container">
+                   <div class="row m-0">
+                       <div class="col-lg-12 mx-auto">
+                           <div class="modal-body">
+                               <!-- Project Details Go Here -->
+
+                               <div class="gallery">
+                                   <div class="container">
+                                       <a href="img/Article/Article8-KrugerPark1/baniere.png"><img class="img-fluid" src="img/Article/Article8-KrugerPark1/baniere.png" data-lity class="img-thumbnail" alt="" /></a>
+                                   </div>
+                               </div>
+
+                              <br/>
+
+                               <p style = "text-align:center">	Au nord-est de l’Afrique du Sud se trouve le parc national Kruger, plus grand en superficie que l’Israël, il abrite de nombreuses espèces observables dans leur milieu naturel. En effet, les visiteurs du parc sont invités à le traverser en voiture et à observer son extraordinaire faune.</p>
+
+                               <div class="gallery">
+                                   <div class="container">
+                                       <a href="img/Article/Article8-KrugerPark1/elephant.jpg"><img class="img-fluid" src="img/Article/Article8-KrugerPark1/elephant.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                                   </div>
+                               </div>
+                               <p style="text-align: right; font-style: italic;">Elephants venant boire</p>
+
+                               <p style = "text-align:center">	Notre voyage commence à Phalaborwa, à l’ouest de Kruger, où se trouve une des portes permettant d’accéder au parc, les consignes sont simples, nous devons rester dans notre voiture tant que nous n’avons pas rejoint de camp. Ceux-ci ferment leurs portes à 18h, il ne faut donc pas rater le coche.	 </p>
+
+
+                               <div class="gallery">
+                                   <div class="container">
+                                       <a href="img/Article/Article8-KrugerPark1/paysage.jpg"><img class="img-fluid" src="img/Article/Article8-KrugerPark1/paysage.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                                   </div>
+                               </div>
+                               <p style="text-align: right; font-style: italic;">Paysage de jungle durant la montée</p>
+
+
+
+
+                               <p style = "text-align: center;">
+                                 Nous nous arrêtons à Letaba où nous trouvons un campement où nous pouvons nous reposer pour la nuit. L’ambiance est particulière, nous sentons la gentillesse et l’émerveillement des gens. Certains animaux ont investi le camp, on le constate grâce aux aménagements fait par celui-ci. En effet, des poubelles anti-singe ne pouvant pas se renverser remplacent les poubelles classiques par exemple.
+
+                               </p>
+
+                               <div class="gallery">
+                                 <div class="container">
+                                   <a href="img/Article/Article8-KrugerPark1/singe2.jpg"><img class="img-fluid" src="img/Article/Article8-KrugerPark1/singe2.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                                 </div>
+                               </div>
+                               <p style="text-align: right; font-style: italic;">Singe sur la route
+                               </p>
+
+                               <p style = "text-align: center;">Le parc ouvrant de 6h à 18h nous devions donc changer notre rythme pour profiter au maximum. Il nous restait une nuit à Letaba avant de partir plus au sud du parc. Il nous fallait donc visiter le nord du parc tant que nous le pouvions. Nous nous sommes donc mis en route pour Mopani un camp ou nous pouvions manger à 50 km au Nord. En allant dans cette direction, on se rend compte que l’aridité des paysages ne fait que croître.</p>
+
+                               <div class="gallery">
+                                   <div class="container">
+                                     <a href="img/Article/Article8-KrugerPark1/mopani.jpg"><img class="img-fluid" src="img/Article/Article8-KrugerPark1/mopani.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                                   </div>
+                               </div>
+                               <p style="text-align: right; font-style: italic;">Porte du camp de Mopani</p>
+
+
+                               <p style = "text-align: center;">
+                                 L’heure tourne, bien que la distance entre notre point A et notre point B ne soit pas si grande, les détours et les chemins alternatifs qui nous sont proposés ne font qu’allonger la durée de notre trajet. Il est 15h, nous devons donc penser à notre retour pour ne pas arriver après la fermeture des portes. Demain, une grande journée nous attend, nous partons vers le Sud.
+                               </p>
+
+                               <div class="gallery">
+                                   <div class="container">
+                                       <a href="img/Article/Article8-KrugerPark1/elephant2.jpg"><img class="img-fluid" src="img/Article/Article8-KrugerPark1/elephant2.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                                   </div>
+                               </div>
+                               <p style="text-align: right; font-style: italic;">éléphants vue de haut</p>
+
+
+
+                               <ul class="list-inline">
+                                   <li>Date: 14 Octobre 2018</li>
+                               </ul>
+                               <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                                   <i class="fas fa-times "></i>
+                                   Fermer l'article</button>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+
+
+   <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+     <div class="modal-dialog">
+       <div class="modal-content">
+         <div class="close-modal" data-dismiss="modal">
+           <div class="lr">
+             <div class="rl"></div>
+           </div>
+         </div>
+         <div class="container">
+           <div class="row m-0">
+             <div class="col-lg-12 mx-auto">
+               <div class="modal-body">
+                 <!-- Project Details Go Here -->
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article9-KrugerPark2/elephants.jpg"><img class="img-fluid" src="img/Article/Article9-KrugerPark2/elephants.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                   </div>
+                 </div>
+
+                 <br/>
+
+                 <p style = "text-align:center">Pour ce voyage, nous sommes partis à plus de 20 répartis en petits groupes. Par un curieux hasard la nuit dernière, nous nous sommes retrouvés au camp de Letaba. Nous venions du Nord, d’autres venaient du Sud. Nous avons donc partagé les informations que nous avions quant aux différentes parties du parc. Dans l’ensemble, le sud a l’air plus riche. Certains mentionnent même la présence de lions.
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article9-KrugerPark2/pont.jpg"><img class="img-fluid" src="img/Article/Article9-KrugerPark2/pont.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">Paysage vu d'un pont</p>
+
+                 <p style = "text-align:center">	Nous partons donc ce matin en direction d’Orpen, le prochain camp dans lequel nous allons passer une nuit. Celui-ci est situé à 120 km au Sud, nous partons donc en voulant faire beaucoup de routes secondaires : afin de rentrer un peu plus dans les terres, et, de trouver une nature toujours plus sauvage.
+                 </p>
+
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article9-KrugerPark2/zebres.jpg"><img class="img-fluid" src="img/Article/Article9-KrugerPark2/zebres.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">Zebres proche des routes du parc</p>
+
+
+
+
+                 <p style = "text-align: center;">
+                   Le camp de ce soir est très petit et possède peu d’infrastructures. Arrivant un peu tard, ce sont des campeurs déjà installés qui viennent nous ouvrir les portes. En effet, ce camp ne possède aucune garde, mais une grande clôture métallique qui entoure le camp. Heureusement, d’ailleurs, car des hyènes rodent autour du camp, attirées par l’odeur des campeurs cuisinant.
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article9-KrugerPark2/sale%20hyene.jpg"><img class="img-fluid" src="img/Article/Article9-KrugerPark2/sale%20hyene.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">Hyene rodant autour du camp</p>
+
+                 <p style = "text-align: center;">	Ce matin, il a fallu que nous nous levions tôt, très tôt, car nous devions nous rendre à un camp à 140 km de là pour déjeuner. De plus, nous avons été informés que les routes menant vers le Sud regorgent de faune. Nous n’avons donc pas de temps à perdre.
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article9-KrugerPark2/voiture.jpg"><img class="img-fluid" src="img/Article/Article9-KrugerPark2/voiture.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">Singes traversant la route</p>
+
+
+                 <p style = "text-align: center;">
+                   Sur la route, nous nous arrêtons à un café, on peut y trouver, comme dans beaucoup d’endroits du parc, une carte sur laquelle les gens indiquent la position des animaux grâce à des magnets. Nous réfléchissons donc à notre itinéraire et décidons de passer par un endroit où des lions seraient indiqués. En approchant l’endroit, nous apercevons beaucoup de voitures, synonyme d’une chose incroyable à voir. Super, des lionnes ayant fini de chasser tirent un cadavre.
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article9-KrugerPark2/lion.jpg"><img class="img-fluid" src="img/Article/Article9-KrugerPark2/lion.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">groupe de lionnes</p>
+
+                 <p style = "text-align: center;">
+                   La matinée ayant été très longue nous décidons donc de repartir directement vers notre prochain camp. Sur la route, nous avons été stoppés par une lionne au milieu de la route. Apparemment, elle avait pris possession du lieu.
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article9-KrugerPark2/lionroute.JPG"><img class="img-fluid" src="img/Article/Article9-KrugerPark2/lionroute.JPG" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">Lionne sur la route</p>
+
+
+
+                 <ul class="list-inline">
+                   <li>Date: 16 Octobre 2018</li>
+                 </ul>
+                 <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                   <i class="fas fa-times "></i>
+                   Fermer l'article</button>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+
+
+   <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+     <div class="modal-dialog">
+       <div class="modal-content">
+         <div class="close-modal" data-dismiss="modal">
+           <div class="lr">
+             <div class="rl"></div>
+           </div>
+         </div>
+         <div class="container">
+           <div class="row m-0">
+             <div class="col-lg-12 mx-auto">
+               <div class="modal-body">
+                 <!-- Project Details Go Here -->
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article10-BloukransBungeeJump/vrai_baniere.jpg"><img class="img-fluid" src="img/Article/Article10-BloukransBungeeJump/vrai_baniere.jpg" data-lity class="img-thumbnail" alt="" /></a>
+                   </div>
+                 </div>
+
+                 <br/>
+
+                 <p style = "text-align:center">Pour ce voyage nous sommes partis avec un objectif en tête : Nous rendre au Bloukrans bridge, un pont culminant à plus de 200m, et sauter à l’élastique du haut de celui-ci. L’adrénaline que nous a apporté le simple fait de regarder des photos de ce gigantesque pont nous a confirmé une chose : nous avions choisis la bonne destination.
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article10-BloukransBungeeJump/Baniere2.jpg"><img class="img-fluid" src="img/Article/Article10-BloukransBungeeJump/Baniere2.jpg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">Bloukran's Bridge photographié au drone</p>
+
+                 <p style = "text-align:center">Le pont se trouve à 6h de route du Cap, et le saut le saut à l’élastique en haut de celui-ci est l’une des seules activités se trouvant dans les environs. Nous avons donc décidé de loger à Mossel Bay, une ville côtière à 4h du Cap. Le trajet en voiture offre des vues superbes, en effet la « Garden route », itinéraire reliant le Cap et Port Elizabeth, est reconnu comme le plus beau roadtrip de l’Afrique du sud.
+                 </p>
+
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article10-BloukransBungeeJump/RouteCapMoss.jpeg"><img class="img-fluid" src="img/Article/Article10-BloukransBungeeJump/RouteCapMoss.jpeg" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">Route de Gordon's Bay</p>
+
+
+
+
+                 <p style = "text-align: center;">
+                   Le lendemain, nous étions attendus à 11h pour notre saut, nous sommes donc partis à 8h de notre logement : la route côtière continue d’être magnifique. L’adrénaline montant, le trajet nous a semblé assez rapide. Une fois sur place tout va très vite, le staff est très efficace pour nous équiper et nous partons directement vers le lieu du saut. Nous empruntons donc une tyrolienne longue d’une centaine de mètre, celle-ci permet d’arriver à la plateforme du saut. La cadence est élevée, chaque saut est espacé de 5 minutes si ce n’est moins. Pas le temps d’y réfléchir, très vite arrive notre tour. On nous installe l’élastique au pied, on avance. Un regard au loin, un regard en bas ; et nous sautons.
+                 </p>
+
+                 <div class="gallery">
+                   <div class="container">
+                     <a href="img/Article/Article10-BloukransBungeeJump/Saut.JPG"><img class="img-fluid" src="img/Article/Article10-BloukransBungeeJump/Saut.JPG" data-lity class="img-thumbnail" alt="" /></a>
+
+                   </div>
+                 </div>
+                 <p style="text-align: right; font-style: italic;">3, 2, 1, saute!</p>
+
+
+                 <ul class="list-inline">
+                   <li>Date: 9 Novembre 2018</li>
+                 </ul>
+                 <button class="btn btn-warning font-weight-bold text-light" data-dismiss="modal" type="button">
+                   <i class="fas fa-times "></i>
+                   Fermer l'article</button>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+
 
 
    <!-- Footer Section -->
