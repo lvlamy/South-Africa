@@ -542,7 +542,7 @@ elseif (isset($delete) && !empty($delete))
 {
     ?>
     <div class="col-12 offset-md-2 col-md-8 offset-lg-3 col-lg-6 border mt-5 p-3">
-        <h4 class="p-3">Are you sure you want to delete this patient?</h4>
+        <h4 class="p-3">Are you sure you want to delete this article?</h4>
         <div class="row">
             <div class="col-6 pl-3 pr-3">
                 <form action="articlemanager.php?list" method="post">

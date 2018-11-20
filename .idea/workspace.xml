@@ -2,131 +2,302 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/KrugerPark2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/Krugerpark1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/Krugerpark2c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/baniere.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/baniere_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/elephant.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/elephant2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/lionroute.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/mopani.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/paysage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/paysage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/paysages.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/pont.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/sale hyene.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/singe2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/vignette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article8-KrugerPark1/vignette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/voiture.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Article/Article9-KrugerPark2/zebres.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3expe/desktop.ini" />
-      <change type="DELETED" beforePath="C:\wamp64\www\South-Africa\index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/3expe/TwelvesApostles.JPG" afterPath="$PROJECT_DIR$/img/3expe/TwelvesApostles.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/3expe/table_mountain.png" afterPath="$PROJECT_DIR$/img/3expe/table_mountain.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/inc_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/inc_footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/inc_navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/inc_navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/articlemanager.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/articlemanager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Articles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/ArticlesManagerPDO.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/ArticlesManagerPDO.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/PDOFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/PDOFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Paragraph.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Paragraph.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Pictures.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Pictures.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lity.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lity.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/2_lac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/2_lac.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/Au_Bout_du_Monde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/Au_Bout_du_Monde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/Hermanus.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/Hermanus.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/Pingouin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/Pingouin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/Pingouin2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/Pingouin2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/Pingouin3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/Pingouin3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/Pingouin4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/Pingouin4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/Requin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/Requin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/TwelvesApostles.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/TwelvesApostles.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/bg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/bg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/bg3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/bg3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/bgart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/bgart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/cape.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/cape.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3expe/table_mountain.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/3expe/table_mountain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article1-Hermanus/bandeau_bal.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/bandeau_bal.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article1-Hermanus/daman1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/daman1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article1-Hermanus/drone_cote.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/drone_cote.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article1-Hermanus/ocean_bal2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/ocean_bal2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article1-Hermanus/pause.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/pause.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article1-Hermanus/whale.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/whale.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article1-Hermanus/whale_vignette.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article1-Hermanus/whale_vignette.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0008.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0008.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0011.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/DJI_0011.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_20180901_162646.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_20180901_162646.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_20180901_165732.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_20180901_165732.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/Lionshead.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/Lionshead.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/img_vignette.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/img_vignette.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/lions_montee.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article2-Lions_Head/lions_montee.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/Gros_gros_plan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/Gros_gros_plan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/Gros_plan_ping.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/Gros_plan_ping.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0008.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0011.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0012.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0039.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0039.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0053.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0053.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/bandeau_ping.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/bandeau_ping.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/collage.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/collage.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/coloni.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/coloni.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/gang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/gang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/img_vignette.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/img_vignette.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/pingouin_paysage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/pingouin_paysage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/plage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/plage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article3-Pingouin/portrait.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article3-Pingouin/portrait.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/Appart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/Appart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/Port-soleil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/Port-soleil.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/agence.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/agence.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/anim_bateau.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/anim_bateau.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/cage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/cage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/devanture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/devanture.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/mouette.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/mouette.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/requin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/requin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/requin1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/requin1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/requin_vignette.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/requin_vignette.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article4-Requins/requin_vignette1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article4-Requins/requin_vignette1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Cap_aiguilles_bandeau.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Cap_aiguilles_bandeau.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Grotte.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Grotte.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Phare.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Phare.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Plage.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/Plage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/cap_drone.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/cap_drone.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/cap_vignette.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article5-Au_Bout_du_Monde/cap_vignette.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/3 copie.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/3 copie.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/vignette.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article6-Twelves_Apostles/vignette.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/beacon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/beacon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/garden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/garden.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/jungle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/jungle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/paysage_nous.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/paysage_nous.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/table_haut.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/table_haut.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/vignette.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/vignette.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/vue_arrivée.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/vue_arrivée.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_SA.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo_SA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lity.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tools.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tools.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trait/Initialization.php" beforeDir="false" afterPath="$PROJECT_DIR$/trait/Initialization.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" afterDir="false" />
     </list>
     <ignored path="South-Africa.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
-    <option name="FLATTEN" value="false" />
-    <option name="GROUP_BY_TYPE" value="true" />
-    <option name="SORT_CHILDREN" value="false" />
-    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="compte: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-795822215">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="php" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="349" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="349" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="South-Africa" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="gansbaai.jpeg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/index.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="77" column="79" selection-start-line="77" selection-start-column="79" selection-end-line="77" selection-end-column="79" />
-              <folding />
+            <state relative-caret-position="152">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="53" selection-end-column="38" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/18576fee-dfb8-4b1a-b501-b558b525ba60/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lac.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inc_footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inc_navbar.php" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-              <folding />
+            <state relative-caret-position="690">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="231">
+              <caret line="135" column="79" selection-start-line="135" selection-end-line="136" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/articlemanager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="318" column="113" selection-start-line="318" selection-start-column="113" selection-end-line="318" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="673">
+              <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Include/inc_navbar_login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/profil_admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="113" column="22" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/inscription.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="171" column="26" selection-start-line="171" selection-start-column="26" selection-end-line="171" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/PDOFactory.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -149,9 +320,6 @@
     <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -167,184 +335,77 @@
         <option value="&lt;f3f44393-a910-44ee-9304-6b51125c7f1c&gt;/South-Africa/index2.html" />
         <option value="&lt;f3f44393-a910-44ee-9304-6b51125c7f1c&gt;/South-Africa/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/Include/inc_navbar.php" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Include/inc_footer.php" />
         <option value="$USER_HOME$/index.php" />
+        <option value="$PROJECT_DIR$/Login/login.php" />
+        <option value="$PROJECT_DIR$/admin/admin.php" />
+        <option value="$PROJECT_DIR$/login/session.php" />
+        <option value="$PROJECT_DIR$/login/logout.php" />
+        <option value="$PROJECT_DIR$/lib/tools.php" />
+        <option value="$PROJECT_DIR$/class/Pictures.php" />
+        <option value="$PROJECT_DIR$/class/ArticlesManagerPDO.php" />
+        <option value="$PROJECT_DIR$/admin/profil_admin.php" />
+        <option value="$PROJECT_DIR$/admin/edit_profil.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Include/inc_navbar.php" />
+        <option value="$PROJECT_DIR$/login/inscription.php" />
+        <option value="$PROJECT_DIR$/Include/inc_footer.php" />
+        <option value="$PROJECT_DIR$/login/login.php" />
+        <option value="$PROJECT_DIR$/Include/inc_navbar_login.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/articlemanager.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-  </component>
-  <component name="NamedScopeManager">
-    <order />
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article9-KrugerPark2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article8-KrugerPark1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="South-Africa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="South-Africa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="South-Africa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Compte" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Compte" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -361,41 +422,154 @@
       <recent name="C:\Users\Martin\PhpstormProjects\South-Africa\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.php">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="file://$PROJECT_DIR$/index.html">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/styles/ic_account_circle_black_36dp.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/styles/ic_arrow_back_black_24dp.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/styles/ic_lock_black_36dp.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/styles/ic_mail_36pt.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/styles/logo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/styles/menu.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/styles/profile.jpg</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="file://$PROJECT_DIR$/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:8888/WEB%20IMMERSION/South-Africa/">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
-      <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost/South-Africa/index.php">
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
-    </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -404,334 +578,420 @@
       <changelist id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="" />
       <created>1536702326225</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1536702326225</updated>
+      <workItem from="1542629414425" duration="9966000" />
     </task>
     <task id="LOCAL-00010" summary="Article.html +article.css">
       <created>1536796106118</created>
       <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
       <updated>1536796106118</updated>
     </task>
     <task id="LOCAL-00011" summary="A propos">
       <created>1537210480461</created>
       <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
       <updated>1537210480461</updated>
     </task>
     <task id="LOCAL-00012" summary="Couleur A propos">
       <created>1537210599878</created>
       <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
       <updated>1537210599878</updated>
     </task>
     <task id="LOCAL-00013" summary="A propos - Texte">
       <created>1537212326637</created>
       <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
       <updated>1537212326637</updated>
     </task>
     <task id="LOCAL-00014" summary="A propos - Texte">
       <created>1537212733830</created>
       <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
       <updated>1537212733830</updated>
     </task>
     <task id="LOCAL-00015" summary="Optimisations">
       <created>1537214073255</created>
       <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1537214073255</updated>
     </task>
     <task id="LOCAL-00016" summary="Rangement dossiers">
       <created>1537307009828</created>
       <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
       <updated>1537307009828</updated>
     </task>
     <task id="LOCAL-00017" summary="Rangement dossiers">
       <created>1537307635524</created>
       <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
       <updated>1537307635524</updated>
     </task>
     <task id="LOCAL-00018" summary="Rangement dossiers">
       <created>1537308456688</created>
       <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1537308456688</updated>
     </task>
     <task id="LOCAL-00019" summary="Rangement dossiers">
       <created>1537308542792</created>
       <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
       <updated>1537308542792</updated>
     </task>
     <task id="LOCAL-00020" summary="Rangement dossiers">
       <created>1537308661146</created>
       <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
       <updated>1537308661146</updated>
     </task>
     <task id="LOCAL-00021" summary="Rangement dossiers">
       <created>1537309039976</created>
       <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
       <updated>1537309039976</updated>
     </task>
     <task id="LOCAL-00022" summary="Rangement dossiers">
       <created>1537309214144</created>
       <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
       <updated>1537309214144</updated>
     </task>
     <task id="LOCAL-00023" summary="Rangement dossiers">
       <created>1537309478849</created>
       <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
       <updated>1537309478849</updated>
     </task>
     <task id="LOCAL-00024" summary="Rangement dossiers">
       <created>1537309692375</created>
       <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
       <updated>1537309692375</updated>
     </task>
     <task id="LOCAL-00025" summary="Redirection bouton &quot;découvrir&quot;, modal">
       <created>1537311032409</created>
       <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
       <updated>1537311032409</updated>
     </task>
     <task id="LOCAL-00026" summary="Articles template v0.5b">
       <created>1537317737821</created>
       <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
       <updated>1537317737821</updated>
     </task>
     <task id="LOCAL-00027" summary="add photos articles 1 et 2">
       <created>1537317980699</created>
       <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
       <updated>1537317980699</updated>
     </task>
     <task id="LOCAL-00028" summary="add photos articles 1 et 2">
       <created>1537318165616</created>
       <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
       <updated>1537318165616</updated>
     </task>
     <task id="LOCAL-00029" summary="add photos articles 1 et 2 et 3 Zéro">
       <created>1537318769627</created>
       <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
       <updated>1537318769627</updated>
     </task>
     <task id="LOCAL-00030" summary="add photos articles 1 et 2 et 3 Zéro">
       <created>1537319904298</created>
       <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
       <updated>1537319904298</updated>
     </task>
     <task id="LOCAL-00031" summary="add photos">
       <created>1537323339918</created>
       <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
       <updated>1537323339918</updated>
     </task>
     <task id="LOCAL-00032" summary="add photos">
       <created>1537323350202</created>
       <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
       <updated>1537323350202</updated>
     </task>
     <task id="LOCAL-00033" summary="add photos">
       <created>1537380549974</created>
       <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
       <updated>1537380549974</updated>
     </task>
     <task id="LOCAL-00034" summary="Aticle 1 finit">
       <created>1537389684136</created>
       <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
       <updated>1537389684136</updated>
     </task>
     <task id="LOCAL-00035" summary="Article 2 - Hermanus complet">
       <created>1537409003628</created>
       <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
       <updated>1537409003628</updated>
     </task>
     <task id="LOCAL-00036" summary="Article 2 - Hermanus complet">
       <created>1537446820269</created>
       <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
       <updated>1537446820269</updated>
     </task>
     <task id="LOCAL-00037" summary="remove whales.mp4">
       <created>1537464713803</created>
       <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
       <updated>1537464713804</updated>
     </task>
     <task id="LOCAL-00038" summary="remove lions head">
       <created>1537465232213</created>
       <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
       <updated>1537465232213</updated>
     </task>
     <task id="LOCAL-00039" summary="remove lions head">
       <created>1537465402426</created>
       <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
       <updated>1537465402426</updated>
     </task>
     <task id="LOCAL-00040" summary="compress articles">
       <created>1537467229034</created>
       <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
       <updated>1537467229034</updated>
     </task>
     <task id="LOCAL-00041" summary="remove svgs">
       <created>1537471313075</created>
       <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
       <updated>1537471313075</updated>
     </task>
     <task id="LOCAL-00042" summary="a propos de toi">
       <created>1537488751602</created>
       <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
       <updated>1537488751602</updated>
     </task>
     <task id="LOCAL-00043" summary="a propos">
       <created>1537489169072</created>
       <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
       <updated>1537489169072</updated>
     </task>
     <task id="LOCAL-00044" summary="Article 4 - complet + reorganisation Carousel">
       <created>1537957786957</created>
       <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
       <updated>1537957786957</updated>
     </task>
     <task id="LOCAL-00045" summary="Article 4 - complet + reorganisation Carousel">
       <created>1538145651612</created>
       <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
       <updated>1538145651612</updated>
     </task>
     <task id="LOCAL-00046" summary="correction orthogrphe shark">
       <created>1538309414793</created>
       <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
       <updated>1538309414793</updated>
     </task>
     <task id="LOCAL-00047" summary="Article au bout du monde">
       <created>1538525219050</created>
       <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
       <updated>1538525219050</updated>
     </task>
     <task id="LOCAL-00048" summary="Article au bout du monde finit, manque vignette">
       <created>1538607641950</created>
       <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
       <option name="project" value="LOCAL" />
       <updated>1538607641950</updated>
     </task>
     <task id="LOCAL-00049" summary="Article au bout du monde finit, manque vignette">
       <created>1538608458304</created>
       <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
       <updated>1538608458304</updated>
     </task>
     <task id="LOCAL-00050" summary="Article au bout du monde finit, manque vignette">
       <created>1538779048545</created>
       <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
       <option name="project" value="LOCAL" />
       <updated>1538779048546</updated>
     </task>
     <task id="LOCAL-00051" summary="Article au bout du monde finit, manque vignette">
       <created>1538783573436</created>
       <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
       <option name="project" value="LOCAL" />
       <updated>1538783573437</updated>
     </task>
     <task id="LOCAL-00052" summary="include footer, header">
       <created>1538787417258</created>
       <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
       <option name="project" value="LOCAL" />
       <updated>1538787417258</updated>
     </task>
     <task id="LOCAL-00053" summary="création pop-up images + article 7">
       <created>1539081524731</created>
       <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
       <option name="project" value="LOCAL" />
       <updated>1539081524733</updated>
     </task>
     <task id="LOCAL-00054" summary="commit pour partager les noms des photos">
       <created>1539254486617</created>
       <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
       <updated>1539254486617</updated>
     </task>
     <task id="LOCAL-00055" summary="Article 7 Twelves apostles">
       <created>1539363845291</created>
       <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
       <updated>1539363845292</updated>
     </task>
     <task id="LOCAL-00056" summary="Article 7 Twelves apostles">
       <created>1539374152170</created>
       <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
       <updated>1539374152170</updated>
     </task>
     <task id="LOCAL-00057" summary="Article 7 Table Mountain">
       <created>1540129257032</created>
       <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
       <updated>1540129257034</updated>
     </task>
     <task id="LOCAL-00058" summary="Article 7 Table Mountain - Orthographe Mathilde">
       <created>1540132636510</created>
       <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
       <updated>1540132636510</updated>
     </task>
     <option name="localTasksCounter" value="59" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9966000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="729" extended-state="0" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827735" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15926327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22552083" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14791666" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.394081" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3359375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.394081" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3359375" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="8" />
+      <window_info anchor="bottom" id="Application Servers" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.15926327" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.328125" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32827735" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="14" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.2253635" />
+      <window_info anchor="right" id="Database" order="4" weight="0.14781906" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.394081" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3359375" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.15926327" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.328125" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="File Transfer" order="15" weight="0.32827735" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="16" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.2253635" />
+      <window_info anchor="right" id="Database" order="4" weight="0.14781906" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -772,309 +1032,215 @@
     <MESSAGE value="Article 7 Table Mountain - Orthographe Mathilde" />
     <option name="LAST_COMMIT_MESSAGE" value="Article 7 Table Mountain - Orthographe Mathilde" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/article.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="11" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/article.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="11" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/article.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="11" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41685393">
+        <state>
           <caret line="228" column="8" selection-start-line="228" selection-start-column="8" selection-end-line="228" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/article.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state>
           <caret line="81" column="11" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/3expe/bgart.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article2-Lions_Head/IMG_20180901_165732.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/3expe/Pingouin.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/3expe/Pingouin4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/Gros_plan_ping.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/plage.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0004.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/bandeau_ping.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0039.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0012.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/IMG_0011.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Article/Article3-Pingouin/Gros_gros_plan.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/index.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/18576fee-dfb8-4b1a-b501-b558b525ba60/console.sql" />
+    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
+    <entry file="file://$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="128">
+          <caret line="139" column="14" lean-forward="true" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tools.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Include/inc_script.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Include/inc_head.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/Pictures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/ArticlesManagerPDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="216" column="5" selection-start-line="216" selection-start-column="5" selection-end-line="216" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit_profil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/PDOFactory.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="171" column="26" selection-start-line="171" selection-start-column="26" selection-end-line="171" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="53" selection-end-column="38" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/profil_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="113" column="22" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Include/inc_footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article7-table-moutain-lac/lac.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/index.php">
+    <entry file="file://$PROJECT_DIR$/Include/inc_navbar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="77" column="79" selection-start-line="77" selection-start-column="79" selection-end-line="77" selection-end-column="79" />
-          <folding />
+        <state relative-caret-position="690">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/18576fee-dfb8-4b1a-b501-b558b525ba60/console.sql">
+    <entry file="file://$PROJECT_DIR$/login/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="673">
+          <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/Article/Article4-Requins/gansbaai.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/Include/inc_navbar_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="135" column="79" selection-start-line="135" selection-end-line="136" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/articlemanager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="318" column="113" selection-start-line="318" selection-start-column="113" selection-end-line="318" selection-end-column="113" />
+        </state>
       </provider>
     </entry>
   </component>

@@ -71,7 +71,7 @@ class Pictures
      */
     public function isValidFormat()
     {
-        $allowedExtension = array('png','gif','jpg','jpeg');
+        $allowedExtension = array('png','gif','jpg','jpeg','JPG','PNG');
 
         $extension = substr(strrchr($this->fileName,'.'),1);
 

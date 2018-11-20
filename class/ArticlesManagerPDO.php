@@ -74,6 +74,34 @@ class ArticlesManagerPDO
         }
     }
 
+    /**
+     * @param $paragraphs
+     * @param $pictures
+     */
+    public function createPlace($article, $paragraphs , $pictures)
+    {
+        $i=1;
+        $place = [];
+
+        foreach ($paragraphs as $paragraph)
+        {
+            foreach ($pictures as $picture)
+            {
+                if($paragraph->getPlace() == $i)
+                {
+                    $place[] = Articles::TEXT_FIELD;
+                    $i++;
+                }
+                if ($picture->getPlace() == $i)
+                {
+                    $place[] = Articles::PICTURE_FIELD;
+                    $i++;
+                }
+            }
+        }
+        $article->setPlace($place);
+    }
+
     public function selectAllArticle()
     {
         $reqId = $this->db->query('SELECT id FROM articles');
@@ -179,6 +207,8 @@ class ArticlesManagerPDO
             'text' => $paragraph,
             'pictures' => $pictures
         ));
+
+        $this->createPlace($article, $paragraph, $pictures);
 
         return $article;
     }

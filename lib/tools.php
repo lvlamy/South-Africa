@@ -27,7 +27,7 @@ function getSessionUser()
 
 function getRoot()
 {
-    $folder = "/southfrench3/";
+    $folder = "/WEB%20IMMERSION/South-Africa/";
     return "http://".$_SERVER['HTTP_HOST'].$folder;
 }
 
