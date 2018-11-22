@@ -89,7 +89,7 @@ if(isset($message))
     <h1 style="text-align: center">Welcome <?php echo $_SESSION['login_user']; ?></h1>
 
     <a href="profil_admin.php" class="btn btn-info btn-md btn-block col-4" style="margin-left: 33%">Profiles</a>
-    <a href="articlemanager.php" class="btn btn-info btn-md btn-block col-4" style="margin-left: 33%">Add an article</a>
+    <a href="articlemanager.php" class="btn btn-info btn-md btn-block col-4" style="margin-left: 33%">Article Manager</a>
 
     <br>
 
@@ -99,7 +99,7 @@ if(isset($message))
     <section class="bg-light" id="portfolio">
 
         <div id="myModal" class="container" style="margin-top: -10%">
-            <h1 align="center">Articles</h1>
+            <h1 align="center">Expeditions</h1>
             <div class="row">
 
                 <?php
@@ -158,7 +158,6 @@ foreach($articles as $articleData) {
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2 class="text-uppercase" style="text-align: center"><?php echo $articleData->getTitle() ?></h2>
-                                <p class="item-intro text-muted">Visite</p>
 
                                 <?php
                                 $articlePictures = $articleData->getPictures();

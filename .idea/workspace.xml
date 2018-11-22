@@ -1,25 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="">
+    <list default="true" id="e3f67b4b-1766-41f2-8c16-a353aa597fee" name="Default" comment="Implementation du projet PHP avec le site South-French">
+      <change afterPath="$PROJECT_DIR$/img/154274289301.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274289303.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274289305.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274289307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274289309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274289311.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274289321.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274314501.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1542743145011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274314503.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274314505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274314507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274314509.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274314511.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274314521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274323811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274345102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274345104.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274345106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274345108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274345111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274345121.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274379301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1542743793011.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1542743793013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1542743793015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274379303.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274379305.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274379307.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274379309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274379311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/154274379321.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/articlemanager.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/articlemanager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/ArticlesManagerPDO.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/ArticlesManagerPDO.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trait/Initialization.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" beforeDir="false" />
     </list>
     <ignored path="South-Africa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,29 +80,34 @@
     <session id="-795822215">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="1" />
+          <entry key="HEIC" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="php" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="1" />
+          <entry key="Image" value="2" />
+          <entry key="PHP" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="34" />
+          <entry key="php" value="703" />
+          <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="34" />
+          <entry key="PHP" value="703" />
+          <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
     </session>
@@ -93,18 +117,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+            <state relative-caret-position="-202">
+              <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
               <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/Pictures.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-837">
+              <caret line="80" column="25" lean-forward="true" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/edit_profil.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/articlemanager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="590" column="101" selection-start-line="590" selection-start-column="101" selection-end-line="590" selection-end-column="101" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/ArticlesManagerPDO.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="409" lean-forward="true" selection-start-line="409" selection-end-line="409" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="844">
+              <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/profil_admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -112,10 +193,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="79" column="40" selection-start-line="79" selection-end-line="80" />
+            <state relative-caret-position="326">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#944#951#1#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login/inscription.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/PDOFactory.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -126,6 +224,17 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getplace</find>
+      <find>admin</find>
+      <find>info</find>
+      <find>display</find>
+      <find>expedi</find>
+      <find>dele</find>
+      <find>jp</find>
+    </findStrings>
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
@@ -158,6 +267,11 @@
         <option value="$PROJECT_DIR$/Include/inc_footer.php" />
         <option value="$USER_HOME$/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/edit_profil.php" />
+        <option value="$PROJECT_DIR$/admin/profil_admin.php" />
+        <option value="$PROJECT_DIR$/class/ArticlesManagerPDO.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/articlemanager.php" />
       </list>
     </option>
   </component>
@@ -172,10 +286,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="17" />
     <option name="y" value="23" />
-    <option name="width" value="1234" />
-    <option name="height" value="724" />
+    <option name="width" value="1280" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
@@ -200,17 +313,12 @@
             <path>
               <item name="South-Africa" type="b2602c69:ProjectViewProjectNode" />
               <item name="South-Africa" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="South-Africa" type="b2602c69:ProjectViewProjectNode" />
               <item name="South-Africa" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="South-Africa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="South-Africa" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,19 +344,19 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="C:\wamp64\www\South-Africa\img\Article\Article10-BloukransBungeeJump" />
+      <recent name="C:\Users\Martin\PhpstormProjects\South-Africa" />
+      <recent name="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe" />
+      <recent name="C:\Users\Martin\PhpstormProjects\South-Africa\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\South-Africa" />
       <recent name="C:\wamp64\www\South-Africa\img\Article\Article10-BloukransBungeeJump" />
       <recent name="C:\Users\Martin\PhpstormProjects\South-Africa" />
       <recent name="$PROJECT_DIR$/img/Article/Article2-Lions_Head" />
       <recent name="C:\Users\Martin\PhpstormProjects\South-Africa\img\Article\Article 3 - Karting" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\South-Africa\img\Article\Article10-BloukransBungeeJump" />
-      <recent name="C:\Users\Martin\PhpstormProjects\South-Africa" />
-      <recent name="C:\Users\Martin\PhpstormProjects\South-Africa\img\3expe" />
-      <recent name="C:\Users\Martin\PhpstormProjects\South-Africa\img" />
-      <recent name="C:\Users\Martin\PhpstormProjects\South-Africa\img\Article" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,7 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.php">
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="85142e53-a211-412f-bfe5-5386f9271c31" server_name="South-french">
       <method />
     </configuration>
@@ -285,6 +393,10 @@
       <pass-parent-envs>true</pass-parent-envs>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.php" />
+      <item itemvalue="JavaScript Debug.index.php (1)" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -296,14 +408,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536702326225</updated>
-      <workItem from="1542730316972" duration="2349000" />
-    </task>
-    <task id="LOCAL-00013" summary="A propos - Texte">
-      <created>1537212326637</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1537212326637</updated>
+      <workItem from="1542730316972" duration="8595000" />
     </task>
     <task id="LOCAL-00014" summary="A propos - Texte">
       <created>1537212733830</created>
@@ -641,14 +746,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542635587706</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Implementation du projet PHP avec le site South-French">
+      <created>1542744173955</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1542744173956</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2355000" />
+    <option name="totallyTimeSpent" value="8601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18739903" />
@@ -669,7 +781,7 @@
       <window_info anchor="bottom" id="Application Servers" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.15926327" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.328125" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.328125" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="13" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="File Transfer" order="14" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -722,7 +834,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Articles template v0.5b" />
     <MESSAGE value="add photos articles 1 et 2" />
     <MESSAGE value="add photos articles 1 et 2 et 3 Zéro" />
     <MESSAGE value="add photos" />
@@ -747,7 +858,8 @@
     <MESSAGE value="Article 7 Table Mountain - Orthographe Mathilde" />
     <MESSAGE value="Article9 - Krugerparc2" />
     <MESSAGE value="Article10 - Bloukran's Bungee Jump + index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Article10 - Bloukran's Bungee Jump + index" />
+    <MESSAGE value="Implementation du projet PHP avec le site South-French" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation du projet PHP avec le site South-French" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
@@ -832,13 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Include/inc_navbar_login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -846,53 +951,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/inscription.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2565">
-          <caret line="171" column="26" selection-start-line="171" selection-start-column="26" selection-end-line="171" selection-end-column="26" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/class/Paragraph.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/class/PDOFactory.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/articlemanager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="318" column="113" selection-start-line="318" selection-start-column="113" selection-end-line="318" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/profil_admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="113" column="22" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/Articles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="79" column="40" selection-start-line="79" selection-end-line="80" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+        <state relative-caret-position="-202">
+          <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit_profil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/Articles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/panorama.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/panorama.HEIC">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#944#951#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/ArticlesManagerPDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="409" lean-forward="true" selection-start-line="409" selection-end-line="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/articlemanager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="590" column="101" selection-start-line="590" selection-start-column="101" selection-end-line="590" selection-end-column="101" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/Pictures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="80" column="25" lean-forward="true" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
         </state>
       </provider>
     </entry>

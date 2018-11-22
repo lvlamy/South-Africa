@@ -15,7 +15,6 @@ $manager = new ArticlesManagerPDO($db);
 
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -74,40 +73,30 @@ $manager = new ArticlesManagerPDO($db);
     <header>
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
+
               <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
               <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
               <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner" role="listbox">
 
-          <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('img/3expe/Pont.jpeg')">
-            <div class="carousel-caption d-none d-md-block">
-              <h3>Bloukran's Bungee Jump</h3>
-              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal10">Découvrir</a>
-            </div>
-          </div>
+                <?php
+                $articlesCarousel = $manager->selectSomeArticles();
 
-
-          <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('img/3expe/KrugerPark2.JPG')">
-            <div class="carousel-caption d-none d-md-block">
-              <h3>Kruger Park #2</h3>
-              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal9">Découvrir</a>
-            </div>
-          </div>
-
-
-          <!-- Slide Three - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('img/3expe/Krugerpark1.jpg')">
-            <div class="carousel-caption d-none d-md-block">
-              <h3>Kruger Park #1</h3>
-              <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#portfolioModal8">Découvrir</a>
-            </div>
-          </div>
-
-
-
+                foreach ($articlesCarousel as $key => $articleCarousel)
+                {
+                    ?>
+                    <div class="carousel-item <?php if($key == 0) echo "active";?>" style="background-image: url('<?php
+                        echo $articleCarousel->getCarouselPicture()->getFilePath().$articleCarousel->getCarouselPicture()->getFileName();
+                    ?>')">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h3><?php echo $articleCarousel->getTitle();?></h3>
+                            <a class="portfolio-link btn bg-warning text-light font-weight-bold" data-toggle="modal" href="#<?php echo $articleCarousel->getId(); ?>">Découvrir</a>
+                        </div>
+                    </div>
+                    <?php
+                }
+                ?>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>

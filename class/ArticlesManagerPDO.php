@@ -114,6 +114,20 @@ class ArticlesManagerPDO
         return $articles;
     }
 
+    public function selectSomeArticles()
+    {
+        $req = $this->db->query('SELECT id FROM articles ORDER BY id DESC LIMIT 3');
+
+        $articles = [];
+        while ($data = $req->fetch())
+        {
+            $articles[] = $this->selectArticle($data['id']);
+        }
+        $req->closeCursor();
+
+        return $articles;
+    }
+
     public function selectArticle($id)
     {
         $reqArticle = $this->db->prepare('SELECT * FROM articles WHERE id = :id');

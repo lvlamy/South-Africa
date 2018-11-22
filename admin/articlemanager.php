@@ -304,8 +304,7 @@ if(isset($add) || isset($edit))
         ?>
         <div class="container-fluid mt-4 mb-4 pl-3">
             <div class="col-12 pr-lg-5 pl-lg-5">
-                <a href="articlemanager.php?list" class="p-0 m-0 btn btn-link text-dark">
-                    <img class="mr-2" src="../img/styles/ic_arrow_back_black_24dp.png" alt="return_row">articles list</a>
+                <a href="articlemanager.php?list" class="btn btn-primary btn-md btn-block col-4" style="margin-left: 33%">articles list</a>
             </div>
         </div>
         <?php
@@ -315,8 +314,7 @@ if(isset($add) || isset($edit))
         ?>
         <div class="container-fluid mt-4 mb-4 pl-3">
             <div class="col-12 pr-lg-5 pl-lg-5">
-                <a href="articlemanager.php" class="p-0 m-0 btn btn-link text-dark">
-                    <img class="mr-2" src="../img/styles/ic_arrow_back_black_24dp.png" alt="return_row">admin</a>
+                <a href="articlemanager.php" class="btn btn-primary btn-md btn-block col-4" style="margin-left: 33%">article manager</a>
             </div>
         </div>
         <?php
@@ -562,13 +560,12 @@ elseif (isset($list))
     ?>
     <div class="d-flex justify-content-center align-items-center p-0 mt-4 mb-4">
         <div class="col-12 col-md-8 col-lg-6">
-            <a href="articlemanager.php" class="p-0 m-0 btn btn-link text-dark">
-                <img class="mr-2" src="../img/styles/ic_arrow_back_black_24dp.png" alt="return_row">article manager</a>
+            <a href="articlemanager.php" class="btn btn-primary btn-md btn-block col-4" style="margin-left: 33%">article manager</a>
         </div>
     </div>
     <div class="d-flex justify-content-center align-items-center flex-column">
         <div class="col-12 col-md-8 col-lg-6">
-            <h1 class="display-3 mb-3">Article list</h1>
+            <h1 class="text-center mb-3">Article list</h1>
             <input class="form-control mb-4" id="myInput" type="text" placeholder="Search..">
             <table class="table table-bordered table-hover">
                 <thead>
@@ -609,13 +606,12 @@ else
     ?>
     <div class="container-fluid mt-4 mb-4 pl-4">
         <div class="pl-4 col-12 offset-md-2 col-md-8 offset-lg-3 col-lg-6">
-            <a href="index.php" class="p-0 m-0 btn btn-link text-dark">
-                <img class="mr-2" src="../img/styles/ic_arrow_back_black_24dp.png" alt="return_row">admin</a>
+            <a href="index.php" class="btn btn-primary btn-md btn-block col-4" style="margin-left: 33%">Back</a>
         </div>
     </div>
     <div class="container-fluid">
         <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-            <h1 class="display-3 p-3">Article Manager</h1>
+            <h1 class="text-center p-3">Article Manager</h1>
             <div class="d-flex justify-content-between">
                 <div class="col-6 p-3">
                     <a href="articlemanager.php?add" class="btn btn-block btn-primary">Add</a>
@@ -626,6 +622,7 @@ else
             </div>
         </div>
     </div>
+
     <?php
 }
 ?>
